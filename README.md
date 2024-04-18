@@ -43,7 +43,11 @@ __N.B__: please check log directory all output save here.
 
 
 ### Peak Value Detection
-![Alt text](./logs//interpolated_dat_5.csv_peak_detection.png  "Derivaive")
+![Alt text](./logs/interpolated_dat_5.csv_peak_detection.png  "Derivaive")
+
+### Saturation and wilting prediction
+![Alt text](./logs/interpolated_dat_5.csv_saturation_and_wilting_prediction.png  "Derivaive")
+
 
 ### Cycle Isolation
 
