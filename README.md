@@ -47,11 +47,11 @@ __N.B__: please check log directory all output save here.
 
 ### Cycle Isolation
 
-![Alt text](logs/dat_9_noise+outliar.csv/dat_9_noise+outliar.csv_cycle_0.png "Cycle Isolation ") 
-![Alt text](logs/dat_9_noise+outliar.csv/dat_9_noise+outliar.csv_cycle_1.png "Cycle Isolation ") 
-![Alt text](logs/dat_9_noise+outliar.csv/dat_9_noise+outliar.csv_cycle_2.png "Cycle Isolation ") 
-![Alt text](logs/dat_9_noise+outliar.csv/dat_9_noise+outliar.csv_cycle_3.png "Cycle Isolation ") 
-![Alt text](logs/dat_9_noise+outliar.csv/dat_9_noise+outliar.csv_cycle_4.png "Cycle Isolation ")
+![Alt text](./logs/interpolated_dat_5.csv/interpolated_dat_5.csv_cycle_0.png "Cycle Isolation ") 
+![Alt text](./logs/interpolated_dat_5.csv/interpolated_dat_5.csv_cycle_1.png "Cycle Isolation ") 
+![Alt text](./logs/interpolated_dat_5.csv/interpolated_dat_5.csv_cycle_2.png "Cycle Isolation ") 
+![Alt text](./logs/interpolated_dat_5.csv/interpolated_dat_5.csv_cycle_3.png "Cycle Isolation ") 
+![Alt text](./logs/interpolated_dat_5.csv/interpolated_dat_5.csv_cycle_4.png "Cycle Isolation ")
 
 ## Next Operation
 Upcomming
