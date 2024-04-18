@@ -33,17 +33,17 @@ __N.B__: please check log directory all output save here.
 
 
 ### Raw data Figure
-![Alt text](logs/dat_9_noise+outliar.csv.png "Raw data Figure")
+![Alt text](./logs/interpolated_dat_5.csv.png "Raw data Figure")
 
 ### Noise and Outlier removing Figure
-![Alt text](logs/dat_9_noise+outliar.csv_remove_noise_and_outlier.png  "Noise and Outlier removing Figure")
+![Alt text](./logs/interpolated_dat_5.csv_remove_noise_and_outlier.png  "Noise and Outlier removing Figure")
 
 ### Derivaive
-![Alt text](logs/dat_9_noise+outliar.csv_derivative.png  "Derivaive")
+![Alt text](./logs/interpolated_dat_5.csv_derivative.png  "Derivaive")
 
 
 ### Peak Value Detection
-![Alt text](logs/dat_9_noise+outliar.csv_peak_detection.png  "Derivaive")
+![Alt text](./logs//interpolated_dat_5.csv_peak_detection.png  "Derivaive")
 
 ### Cycle Isolation
 
